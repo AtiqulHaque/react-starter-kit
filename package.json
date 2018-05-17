@@ -1,0 +1,23 @@
+{
+  "name": "react-starter-pack",
+  "version": "1.0.0",
+  "description": "sample React stater kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtiqulHaque/react-starter-kit.git"
+  },
+  "keywords": [
+    "reactjs",
+    "webpack"
+  ],
+  "author": "Md.Atiqul Haque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtiqulHaque/react-starter-kit/issues"
+  },
+  "homepage": "https://github.com/AtiqulHaque/react-starter-kit#readme"
+}
