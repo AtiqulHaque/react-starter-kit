@@ -1,7 +1,7 @@
 Webpack starter kit for reactjs development.
 
-Please first install Nodejs and NPM and check by this two command 
-------------------------------------------------------------------
+Please first install Nodejs and NPM
+-----------------------------------
 sudo apt-get update
 
 sudo apt-get install nodejs
@@ -16,7 +16,7 @@ node --version or node --v
 
 npm --version or npm --v
 
-After install node and npm run this command step by step
+After install node and npm run this commands step by step
 --------------------------------------------------------
 Step 1.sudo clone git clone https://github.com/AtiqulHaque/react-starter-kit.git
 
